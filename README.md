@@ -8,10 +8,10 @@ Find download and install the driver for the CP2102 at https://www.silabs.com/de
 
 On the Arduino IDE set following:
 <ol>
-<li> Board: Arduino Pro or Pro Mini </li>
-<li> Processor: ATmega328P (5V, 16MHz) </li>
-<li> Port: /dev/cu.SLAB_USBtoUART (on MacOS, maybe different on your OS) </li>
-<li> Programmer: USBasp </li>
+<li> Board: <b>Arduino Pro or Pro Mini</b> </li>
+<li> Processor: <b>ATmega328P (5V, 16MHz)</b> </li>
+<li> Port: <b>/dev/cu.SLAB_USBtoUART</b> (on MacOS, maybe different on your OS) </li>
+<li> Programmer: <b>USBasp</b> </li>
 </ol>
 
 #### Connection
